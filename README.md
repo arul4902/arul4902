@@ -33,17 +33,6 @@ I'm a B.Tech IT student passionate about building scalable backend systems and e
 
 ---
 
-## 🏆 Achievements & Certifications
-- 👨‍💻 Finalist – Smart India Hackathon  
-- 🎓 Backend Intern @ Redmind Technologies  
-- 📜 **Certifications**:  
-  - MongoDB University – Introduction to MongoDB  
-  - AWS – Cloud Technical Essentials  
-  - Google Cloud – Generative AI & LLM  
-  - IBM – Enterprise Computing, Django & SQL  
-
----
-
 
 ## 📈 GitHub Stats
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
