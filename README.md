@@ -34,8 +34,6 @@ I'm a B.Tech IT student passionate about building scalable backend systems and e
 ---
 
 
-## 📈 GitHub Stats
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ---
 
