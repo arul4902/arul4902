@@ -35,8 +35,6 @@ I'm a B.Tech IT student passionate about building scalable backend systems and e
 
 
 
----
-
 ## 📫 Let's Connect!
 📍 Tamil Nadu, India  
   
